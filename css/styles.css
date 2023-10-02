@@ -939,9 +939,8 @@ border-radius: 0px 0px 4px 4px;
 }
 
 
-.modal-form-message:hover,
+
 .modal-form-message:focus {
-    
     border-color: #4D5AE5;
 }
 
